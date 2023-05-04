@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="disConnect">#D32F2F</color>
+    <color name="connect">#388E3C</color>
+    <color name="defaultColor">#303F9F</color>
+
+</resources>
